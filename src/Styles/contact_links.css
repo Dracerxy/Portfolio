@@ -1,0 +1,25 @@
+.ct {
+    position: fixed;
+    display: flex;
+    align-items: flex-start;
+    top: 6rem;
+    gap: 1.5625rem;
+    left: 45%;
+  }
+  
+  .ct-heading {
+    position: fixed;
+    display: flex;
+    align-items: flex-start;
+    top:2rem;
+    left:50%
+  }
+  
+   
+  .ct-split {
+    position: fixed;
+    display: flex;
+    align-items: flex-start;
+    top:13rem;
+    left:38%
+  }

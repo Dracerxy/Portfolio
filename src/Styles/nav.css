@@ -1,9 +1,8 @@
 .nav {
   position: fixed;
   display: flex;
-  /* align-items: flex-start; */
-  margin-top: 45%;
-  top: 3rem;
+  align-items: flex-start;
+  top: 40rem;
   gap: 1.5625rem;
   left: 50%;
 }
