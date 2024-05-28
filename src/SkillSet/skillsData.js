@@ -53,7 +53,15 @@ const skills = {
     {
       title: "PostgreSQL",
       level: 3,
+    },
+    {
+      title: "Web3.js",
+      level: 3,
     }, 
+    {
+      title: "solidity",
+      level: 3,
+    },
    
   ],
 };
